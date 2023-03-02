@@ -1,0 +1,1 @@
+<?php /**PATH /home/stone/Desktop/Projects/PHP/baroncabot/resources/views/layouts/questions.blade.php ENDPATH**/ ?>

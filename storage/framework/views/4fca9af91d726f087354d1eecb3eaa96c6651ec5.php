@@ -1,0 +1,1 @@
+<?php /**PATH /home/stone/Desktop/Projects/PHP/baroncabot/resources/views/pages/privacy-statement.blade.php ENDPATH**/ ?>

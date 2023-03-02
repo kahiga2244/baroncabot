@@ -1,0 +1,86 @@
+.bg-grey {
+   background-color: #efefef;
+}
+
+.dot {
+   height: 30px;
+   width: 30px;
+   background-color: #FB9B0A;
+   border-radius: 50%;
+   display: inline-block;
+}
+
+.due-section {
+   border: 1px solid #fff;
+   margin-bottom: 20px;
+   border-radius: 20px;
+   padding: 60px 60px 0px;
+}
+
+.due-section > h2 {
+   margin-bottom: 40px;
+   font-family: "Montserrat", sans-serif;
+   color: #FB9B0A;
+}
+
+.due-section > p{
+   font-size: 32px;
+   line-height: 8px;
+   color: #ffffff;
+}
+
+.due_content{
+   font-size: 24px;
+   /* line-height: 8px; */
+   color: #ffffff;
+}
+
+.background_blue {
+   background-color: #002748;
+}
+
+.due_number{
+   font-family: "Montserrat", sans-serif;
+   font-size: 102px;
+   color: #ffffff;
+}
+
+.due_arrow{
+   margin: 35px;
+}
+
+.top-info {
+   font-size: 23px;
+   font-family: "Montserrat", sans-serif;
+   color: #878787;
+   font-weight: 300;
+}
+
+.btn-block {
+   width: 100% !important;
+}
+
+
+.fs-icon {
+   fill: #fff;
+   pointer-events: none;
+}
+
+.select2-container {
+   z-index: 9999 !important;
+}
+
+ul#select2--ng-results > li {
+   display: inherit !important;
+}
+
+.select2-results__option {
+   padding: 6px;
+   user-select: none;
+   -webkit-user-select: none;
+   display: block;
+}
+
+.iti.iti--allow-dropdown {
+   width: 100%;
+}
